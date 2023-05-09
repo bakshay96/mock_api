@@ -1,8 +1,8 @@
 {
-  "users": [],
-  "dogs":  [],
-  "admin": [],
-  "quiz" :[],
-
-  "images":[]
+  "users" : [],
+  "dogs"  : [],
+  "admin" : [],
+  "quiz"  : [],
+  "emp    : [],
+  "images": []
 }
