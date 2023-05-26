@@ -8,6 +8,7 @@
   "name": "mock_server",
   "version": "1.0.0",
   "main": "server.js",
+  "proxy":"https://zany-erin-alligator-cape.cyclic.app",
   "devDependencies": {},
   "repository": {
     "type": "git",
