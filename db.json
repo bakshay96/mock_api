@@ -1,7 +1,6 @@
 {
-  "users": [],
-  "dogs":  [],
-  "admin": [],
-
-  "images":[]
+  "users" : [],
+ "data" : [],
+  "appointments" :[],
+  "images" : []
 }
