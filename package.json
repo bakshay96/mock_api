@@ -9,11 +9,6 @@
   "name": "mock_server",
   "version": "1.0.0",
   "main": "server.js",
-<<<<<<< HEAD
-=======
-  "proxy":"https://zany-erin-alligator-cape.cyclic.app",
-  "devDependencies": {},
->>>>>>> cdbdbef4ff8a2208f9478bbaf8286d36bf99765b
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bakshay96/mock_server.git"
